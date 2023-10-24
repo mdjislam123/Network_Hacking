@@ -5,11 +5,13 @@
 We plan to create a vulnerable web application for this project that performs Scapy network attacks on the visitor's local network.
 
 **Research Needed**
+
 How to deploy in the cloud or the local host.
 How to conduct the attacks on the machine.
 How to attack the network the machine is on using Scapy.
 
 **Technical Tools (Software, programming languages, etc.)**
+
 HTML 
 
 CSS
